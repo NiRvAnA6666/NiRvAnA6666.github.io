@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "GosHawk"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "NiRvAnA6666 Trace."
+  bio              : "NiRvAnA6666 Trace"
   location         : "South Korea"
-  email            : "md101404@naver.com
+  email            : "md101404@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
